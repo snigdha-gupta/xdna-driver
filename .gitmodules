@@ -1,3 +1,4 @@
 [submodule "xrt"]
-	path = xrt
-	url = https://github.com/Xilinx/XRT.git
+    path = xrt
+    url = https://github.com/snigdha-gupta/xrt.git
+    branch = ve2_profile_xdna
